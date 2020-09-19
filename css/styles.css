@@ -1,0 +1,159 @@
+
+body{
+     margin: 0;
+     text-align: center;
+     font-family: 'Roboto', sans-serif;
+
+}
+
+h1{
+     margin: 50px auto 0 auto;
+     font-family: 'Permanent Marker', cursive;
+     font-size: 5.625rem;
+     color: #32e0c4;
+
+}
+
+h2{
+     font-family: 'Montserrat', sans-serif;
+     font-size: 2.5rem;
+     font-weight: normal;
+     color: #32e0c4;
+     padding-bottom: 10px;
+}
+
+h3{
+     font-family: 'Montserrat', sans-serif;
+     text-align:center;
+     color: #eeeeee;
+}
+p{
+     color:#32e0c4;
+}
+
+hr{
+     border: dotted #32e0c4;
+     border-bottom: none;
+     width: 4%;
+     margin: 100px auto;
+}
+
+.top-container{
+     background-image: url("https://c4.wallpaperflare.com/wallpaper/979/439/632/car-vehicle-bmw-bmw-e30-wallpaper-preview.jpg");
+     position: relative;
+     padding-top: 100px;
+     background-size: 100%;
+     background-repeat: no-repeat;
+     max-width: 100%;
+     height:auto;
+}
+
+.middle-container{
+     background-color: #393e46;
+}
+
+.profile-picture{
+     display: block;
+     height: 20%;
+      width: 20%;
+      margin: auto;
+      padding-top: 30px;
+}
+
+.contact-me{
+     background-color: #222831;
+     padding-bottom: 100px;
+}
+
+.bottom-container{
+     background-color: #eeeeee;
+     padding: 50px 0 20px;
+
+}
+
+.footer-link{
+     color: #222831;
+     font-family: 'Montserrat', sans-serif;
+     margin: 10px 20px;
+     text-decoration: none;
+}
+
+.footer-link:hover{
+     color: #32e0c4;
+}
+
+.copyright{
+     color: #32e0c4;
+     font-size: 0.75rem;
+     padding: 20px 0;
+}
+
+.fancy{
+     text-decoration: underline;
+}
+
+.hello{
+     text-align: center;
+}
+
+.profile{
+     text-align: justify;
+
+}
+
+.work{
+     color: #eeeeee;
+}
+
+.contact-message{
+     width: 40%;
+     margin: 40px auto 60px;
+}
+
+.skill-row{
+     text-align: justify;
+     margin:100px auto 100px auto;
+     width: 50%;
+     padding-bottom: 10px;
+}
+
+.intro{
+
+     margin:auto;
+
+}
+
+.experience{
+     display: block;
+     margin-right: 30px;
+     margin-left: 30px;
+     width:30%;
+     float:left;
+}
+
+.btn {
+  background: #00ffd5;
+  background-image: -webkit-linear-gradient(top, #00ffd5, #629e94);
+  background-image: -moz-linear-gradient(top, #00ffd5, #629e94);
+  background-image: -ms-linear-gradient(top, #00ffd5, #629e94);
+  background-image: -o-linear-gradient(top, #00ffd5, #629e94);
+  background-image: linear-gradient(to bottom, #00ffd5, #629e94);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Montserrat;
+  color: #222831;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #393e46;
+  background-image: -webkit-linear-gradient(top, #393e46, #222831);
+  background-image: -moz-linear-gradient(top, #393e46, #222831);
+  background-image: -ms-linear-gradient(top, #393e46, #222831);
+  background-image: -o-linear-gradient(top, #393e46, #222831);
+  background-image: linear-gradient(to bottom, #393e46, #222831);
+  text-decoration: none;
+}
